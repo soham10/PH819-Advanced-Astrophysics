@@ -1,0 +1,1 @@
+This repository contains a Python notebook implementing the numerical schemes used to generate plots for a course project on shock formation in core-collapse supernovae. It includes simulations of Burgers’ shocks, as well as shock propagation in both uniform and non-uniform density media.
